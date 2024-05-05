@@ -1,0 +1,246 @@
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.padre{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.menu{
+    display: flex;
+    width: 25vw;
+    background-color: white;
+    flex-direction: column;
+    border-right: 2px solid #e3e3e3;
+    overflow: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 14px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.maria{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.mensaje{
+    width: 35px;
+    height: 35px;
+    background-color: #ffff;
+    margin: 5%;
+}
+
+.men{
+    width: 35px;
+    height: 35px;
+    background-color: #ffff;
+    margin: 5%;
+}
+
+.boton{
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 28px;
+}
+
+.recuadro{
+    height: 75px;
+    width: 200px;
+    background-color: #a491d2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 3%;
+    color: white;
+    border: 2px solid black
+}
+
+.recuadro:hover{
+    background: #CDC2E6;
+}
+
+.contacto1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.juanita{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto2{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.alberto{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+
+.contacto3{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.ignacio{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto4{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.cristian{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto5{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.mariajose{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto6{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.gonzalo{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto7{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.juanpablo{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.contacto8{
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e3e3e3;
+    padding: 20px;
+    gap: 0 1rem;
+}
+
+.magdalena{
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.hijo1{
+background-color: #e8ebe4;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.imagen img{
+    background-color: #e8ebe4;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+.net{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.presiona{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+}
